@@ -16,32 +16,12 @@
 
 using namespace std;
 
-class Student
-{
-  public:
-          string name;
-          int score;
 
-  Student(string name, int score)
-  {
-    this->name = name;
-    this->score = score;
-  }        
-
-};
 
 
 int main() {
 
- vector <int> arr = {2, 9, 6, 2, 11, 9, 6};
-
- srand(time(NULL));
- shuffle(arr.begin(), arr.end());
- 
- for(int a : arr)
- {
-   cout << a << endl;
- }
+ cout << "hallo Alex !!!";
  
  
     return 0;
