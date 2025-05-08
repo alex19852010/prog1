@@ -22,7 +22,7 @@ using namespace std;
 int main() {
 
  cout << "hallo Alex  you best !";
- cout << "hallo world  you best !";
+ cout << "hallo world  you best ogo !";
  
  
     return 0;
