@@ -24,6 +24,9 @@ int main() {
  cout << "hallo Alex  you best !";
  cout << "hallo world  you best !";
  cout << "hallo milan  you best !";
+ cout << "hallo real  you best !";
+ cout << "hallo barsa  you best !";
+ 
  
     return 0;
 }
